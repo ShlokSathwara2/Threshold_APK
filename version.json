@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.1",
-  "note": "Splash animation, app lock fix, class alerts, dynamic briefs",
+  "version": "1.2",
+  "note": "Instant splash, tap sounds & haptics, bunk-window alerts, weekly report card, grade projection, share cards, data backup, home-screen widget, streak tracking, announcements",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
