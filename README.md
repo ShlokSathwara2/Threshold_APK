@@ -4,6 +4,8 @@
 
 Threshold is an Android app that keeps your entire college semester in one place. Track your attendance, plan safe bunks, follow exam countdowns, and get smart reminders — all without opening your portal every day.
 
+> **Note:** Threshold is currently available for **Android users only**. An iOS app version is coming soon, and a website version is under development — both will be available soon.
+
 ## Features
 
 - **Attendance Tracker** — per-subject attendance with recovery plans and a 75% guard that warns you before you drop below the limit.
