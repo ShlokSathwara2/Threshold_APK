@@ -28,6 +28,9 @@ Download the latest APK from this repository:
 3. Follow the on-screen prompts to install.
 4. Open **Threshold** from your app drawer.
 
+5. If not able to download (Go to Play Store -> Click on profile button on top right -> Play protect -> Settings -> Turn off (Scan apps with Play Protect)
+6. Then download the APK again 
+
 > **Note:** Since this is not from the Play Store, your phone may show an "unverified app" warning — that's expected. Tap **Install anyway**.
 
 ## Getting Started
