@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.6",
-  "note": "Welcome modal for new users, all settings default off so you choose what to enable, feature briefing on dashboard, updated About section with contact links, and login page improvements.",
+  "version": "1.7",
+  "note": "Connected to live backend — attendance, marks, timetable and all features now work. Welcome modal, settings defaults off, feature briefing, download buttons.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
