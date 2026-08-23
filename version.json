@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.4",
-  "note": "Timetable fix: lab & practical classes (P/L slots) now show up correctly for every batch, with the right room and faculty. In-app update alerts: existing users get notified when a new version is available.",
+  "version": "1.5",
+  "note": "Welcome modal for new users, settings defaults turned off so you choose what to enable, feature briefing on dashboard, updated About section, and login page improvements.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
