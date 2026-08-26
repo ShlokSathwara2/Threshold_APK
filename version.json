@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.7",
-  "note": "Connected to live backend — attendance, marks, timetable and all features now work. Welcome modal, settings defaults off, feature briefing, download buttons.",
+  "version": "1.8",
+  "note": "PWA install on website, leave planner fix, gradient THRESHOLD title, skeleton loading, attendance change card, premium animations.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
