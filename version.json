@@ -1,5 +1,5 @@
 ﻿{
-  "version": "1.8",
-  "note": "PWA install on website, leave planner fix, gradient THRESHOLD title, skeleton loading, attendance change card, premium animations.",
+  "version": "1.9",
+  "note": "Switched to Render backend, locked SP-only features on web, new FeatureLockModal, Campus Web login improvements.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
