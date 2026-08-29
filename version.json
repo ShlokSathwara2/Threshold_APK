@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.1",
-  "note": "Gradient borders on all cards, Academia login for Campus Web users, NaN semester fix.",
+  "version": "2.2",
+  "note": "Gradient borders on all cards, attendance fix — always from SP portal.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
