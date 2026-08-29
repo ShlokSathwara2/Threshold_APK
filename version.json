@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.0",
-  "note": "Notification toggle guard, holidays cleanup, backup import/export fix, Campus Web session timeout, PWA install detection.",
+  "version": "2.1",
+  "note": "Gradient borders on all cards, Academia login for Campus Web users, NaN semester fix.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
