@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.2",
-  "note": "Gradient borders on all cards, attendance fix — always from SP portal.",
+  "version": "2.3",
+  "note": "In-app update notifications — you'll now be prompted inside the app when a new version is available.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
