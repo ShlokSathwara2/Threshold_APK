@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.3",
-  "note": "In-app update notifications — you'll now be prompted inside the app when a new version is available.",
+  "version": "2.4",
+  "note": "Black screen fix + native update checker — you'll now be prompted to update even if the app can't load.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
