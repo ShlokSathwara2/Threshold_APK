@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.5",
-  "note": "Class Scheduler — schedule your STEP & Aptitude classes with reminders.",
+  "version": "2.6",
+  "note": "SRM grade scale fix + SGPA forecast (best/current/worst), per-subject View Details, Academia stays signed in, faster login",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
