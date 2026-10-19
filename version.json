@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.7",
-  "note": "Component-wise marks (per-subject View Details) now load correctly, and pull-to-refresh works again.",
+  "version": "2.9.1",
+  "note": "Clean standard notifications, faster fingerprint unlock, live class now appears in the Now Bar, and the margin planner is now called Bunk budget.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
