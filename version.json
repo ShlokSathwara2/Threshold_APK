@@ -1,5 +1,5 @@
 {
-  "version": "2.9.2",
-  "note": "Live class now shows as a normal ongoing notification instead of a Now Bar capsule. Details, progress bar and countdown are unchanged.",
+  "version": "2.9.3",
+  "note": "Live class notification now also shows present / absent / total classes, faculty name and room number. No more Now Bar capsule.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
