@@ -1,5 +1,5 @@
 ﻿{
-  "version": "2.9.1",
-  "note": "Clean standard notifications, faster fingerprint unlock, live class now appears in the Now Bar, and the margin planner is now called Bunk budget.",
+  "version": "2.9.2",
+  "note": "Live class now shows as a normal ongoing notification instead of a Now Bar capsule. Details, progress bar and countdown are unchanged.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
