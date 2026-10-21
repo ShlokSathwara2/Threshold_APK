@@ -1,5 +1,5 @@
 {
-  "version": "2.9.3",
-  "note": "Live class notification now also shows present / absent / total classes, faculty name and room number. No more Now Bar capsule.",
+  "version": "2.9.4",
+  "note": "Updates now download and open the installer from inside the app. Live class shows present / absent / total, faculty and room.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
