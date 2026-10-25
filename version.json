@@ -1,5 +1,5 @@
 {
-  "version": "2.9.4",
-  "note": "Updates now download and open the installer from inside the app. Live class shows present / absent / total, faculty and room.",
+  "version": "2.9.5",
+  "note": "Saved data now survives expired Academia sessions across every tab, Internal Marks keeps all component tabs (FT-I, FT-II, ...), marks alerts only fire on real changes, and the timetable keeps its saved schedule when a refresh fails.",
   "apkUrl": "https://github.com/ShlokSathwara2/Threshold_APK/raw/main/Threshold.apk"
 }
